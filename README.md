@@ -1,8 +1,10 @@
 
   # README-GENERATOR
   ![License](https://img.shields.io/badge/license-MIT-green.svg)
-  [Untitled_ Nov 12, 2022 3_05 PM.webm](https://user-images.githubusercontent.com/104470467/201492902-8f49276f-c023-4726-a57f-6de268b1b4f4.webm)
-
+  
+  ## Video 
+  
+[https://drive.google.com/file/d/1Y0jnVqhUUidsEgyi8m8IpG0HrEQZFJF9/view]
   
   # Table of contents
   1. [Description](#description)
